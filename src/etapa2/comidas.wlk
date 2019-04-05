@@ -27,3 +27,20 @@ object sorgo {
 }
 
 // despues, agregar mijo y canelones
+
+object canelones {
+	var tieneSalsa = false
+	var tieneQueso = true
+	
+	method sinNada() {
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	}
+}

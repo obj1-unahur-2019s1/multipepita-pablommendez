@@ -1,0 +1,8 @@
+import comidas.*
+
+// auto-generated at 04/04/2019 19:35:25
+test "exported test from REPL session" {
+	
+	canelones.queso()
+	
+}
